@@ -109,7 +109,7 @@ function displayForecast(response) {
   forecastElement.innerHTML = forecastHtml;
 }
 
-searchCity("Paris");
+searchCity("Ghent");
 
 /*  <div class="weather-forecast">
           <div class="row">
